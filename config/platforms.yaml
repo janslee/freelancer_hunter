@@ -1,0 +1,13 @@
+platforms:
+  freelancer:
+    enabled: true
+    mode: http
+    base_url: "https://www.freelancer.com"
+    search_paths:
+      - "/jobs/reactjs/"
+      - "/jobs/javascript/"
+      - "/jobs/java/"
+    request_timeout_seconds: 20
+    max_list_pages_per_run: 3
+    max_projects_per_run: 20
+    user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
