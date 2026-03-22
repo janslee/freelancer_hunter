@@ -1,0 +1,25 @@
+profile:
+  owner_name: Erik
+  timezone: Asia/Singapore
+  languages:
+    - zh-CN
+    - en
+
+filters:
+  include_keywords:
+    - react
+    - reactjs
+    - nextjs
+    - java
+    - springboot
+    - postgresql
+    - dashboard
+    - admin
+    - management system
+  exclude_keywords:
+    - gambling
+    - cheating
+    - bypass login
+  min_budget:
+    USD: 250
+    CNY: 1500
