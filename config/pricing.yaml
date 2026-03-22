@@ -1,0 +1,13 @@
+pricing:
+  hourly_rate_min:
+    USD: 35
+    CNY: 180
+  hourly_rate_target:
+    USD: 60
+    CNY: 320
+  fixed_price_min:
+    USD: 300
+    CNY: 1500
+  rush_multiplier: 1.25
+  unclear_requirement_multiplier: 1.15
+  high_risk_multiplier: 1.2
