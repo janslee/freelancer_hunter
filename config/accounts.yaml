@@ -1,0 +1,6 @@
+accounts:
+  freelancer:
+    enabled: false
+    email: ""
+    password: ""
+    login_url: "https://www.freelancer.com/login"
